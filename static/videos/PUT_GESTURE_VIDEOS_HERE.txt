@@ -1,0 +1,3 @@
+Copy the gesture videos (gesture_1.mp4 ... gesture_34.mp4) from the static/videos folder of your
+current installation into this folder. They were not in the shared files, so they are not in the zip.
+The app works without them; the participant page just shows no video.
